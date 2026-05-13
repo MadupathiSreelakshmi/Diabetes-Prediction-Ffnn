@@ -51,7 +51,10 @@ This project is a deep learning-based Diabetes Prediction System developed using
 ---
 
 ## 📷 Project Screenshots
-(Add screenshots here later)
+
+1. Home page![Screenshot](https://github.com/user-attachments/assets/f98622b8-b6ee-446b-82c9-c882958234a5)
+2. Result of patient![Screenshot](https://github.com/user-attachments/assets/d5ee9f9d-0fbd-40d8-9f7d-96e77e3286ed)
+
 
 ---
 
