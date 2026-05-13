@@ -63,6 +63,7 @@ This project is a deep learning-based Diabetes Prediction System developed using
 ### Clone Repository
 ```bash
 git clone https://github.com/MadupathiSreelakshmi/Diabetes-Prediction-Ffnn.git
+cd Diabetes-Prediction-Ffnn
 ```
 
 ### Install Dependencies
