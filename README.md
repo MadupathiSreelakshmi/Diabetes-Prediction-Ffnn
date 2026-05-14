@@ -18,7 +18,6 @@ The model predicts diabetes based on the following medical parameters:
 - Diabetes Pedigree Function
 - Age
 
----
 
 ## 🎯 Target Outcome
 
@@ -27,6 +26,7 @@ The model performs binary classification to predict:
 - **0 → Non-Diabetic**
 - **1 → Diabetic**
 
+---
   
 ## 🛠️ Technologies Used
 - Python
