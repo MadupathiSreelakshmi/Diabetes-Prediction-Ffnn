@@ -5,15 +5,29 @@ This project is a deep learning-based Diabetes Prediction System developed using
 
 ---
 
-## 🚀 Features
-- Diabetes prediction using deep learning
-- Built using Feed Forward Neural Network (FFNN)
-- Real-time prediction system
-- User-friendly web interface
-- Data preprocessing and model optimization
+## 📥 Input Features
+
+The model predicts diabetes based on the following medical parameters:
+
+- Pregnancies
+- Glucose Level
+- Blood Pressure
+- Skin Thickness
+- Insulin Level
+- Body Mass Index (BMI)
+- Diabetes Pedigree Function
+- Age
 
 ---
 
+## 🎯 Target Outcome
+
+The model performs binary classification to predict:
+
+- **0 → Non-Diabetic**
+- **1 → Diabetic**
+
+  
 ## 🛠️ Technologies Used
 - Python
 - TensorFlow
